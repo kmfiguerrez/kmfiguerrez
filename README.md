@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Karl Michael Figuerrez
+- 👋 Hi, I’m Karl Michael Figuerrez. I worked as an IT Specialist for almost three years.
 - 👀 I’m interested in computer programming and computer networking.
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on relevant projects
 - 📫 How to reach me ...
 
 <!---
